@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "app.gitTest.lab"
+        },
+        "org.apache.cordova.device-motion": {
+            "PACKAGE_NAME": "app.gitTest.lab"
+        },
+        "org.apache.cordova.device-orientation": {
+            "PACKAGE_NAME": "app.gitTest.lab"
+        }
+    },
+    "dependent_plugins": {}
+}
